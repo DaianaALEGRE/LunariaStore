@@ -1,0 +1,55 @@
+.producto{
+
+display:grid;
+
+grid-template-columns:1fr 1fr;
+
+gap:50px;
+
+padding:60px;
+
+}
+
+.producto img{
+
+width:100%;
+
+border-radius:20px;
+
+}
+
+.producto h1{
+
+font-size:42px;
+
+margin-bottom:20px;
+
+}
+
+.producto h2{
+
+font-size:34px;
+
+color:#F7C873;
+
+margin-bottom:30px;
+
+}
+
+.btnWhatsapp{
+
+display:inline-block;
+
+margin-top:30px;
+
+padding:16px 30px;
+
+background:#25D366;
+
+color:white;
+
+border-radius:12px;
+
+font-weight:bold;
+
+}
