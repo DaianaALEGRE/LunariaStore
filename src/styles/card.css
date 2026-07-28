@@ -1,20 +1,24 @@
 .card{
 
-background:#1d1d1d;
+background:white;
 
-border-radius:16px;
+border-radius:18px;
+
+border:1px solid #ECE8E2;
 
 overflow:hidden;
 
-transition:.3s;
+box-shadow:
 
-box-shadow:0 5px 20px rgba(0,0,0,.3);
+0 8px 20px rgba(0,0,0,.06);
+
+transition:.25s;
 
 }
 
 .card:hover{
 
-transform:translateY(-8px);
+transform:translateY(-4px);
 
 }
 
@@ -62,12 +66,19 @@ padding:12px;
 
 text-align:center;
 
-background:#C58C5A;
+background:#C76A3C;
 
 border-radius:10px;
 
 font-weight:bold;
 
 color:white;
+
+}
+
+.btn:hover{
+
+background:#AF5A30;
+;
 
 }

@@ -1,0 +1,39 @@
+.hero {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  background: #1B1F3B;
+  color: #F5E9DA;
+}
+
+.hero h2 {
+  font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
+  margin: 0 0 0.8rem;
+}
+
+.hero p {
+  font-family: 'Poppins', 'Inter', system-ui, sans-serif;
+  color: #BFE9E0;
+  max-width: 480px;
+  margin: 0 auto 1.5rem;
+  font-size: 1rem;
+}
+
+.btn-primary {
+  display: inline-block;
+  background: #FF8C69;
+  color: #12142B;
+  font-weight: 600;
+  padding: 0.75rem 1.6rem;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  font-family: 'Poppins', 'Inter', system-ui, sans-serif;
+  font-size: 1rem;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.btn-primary:hover {
+  background: #E8B84B;
+  transform: translateY(-2px);
+}

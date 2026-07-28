@@ -5,20 +5,17 @@ box-sizing:border-box;
 }
 
 body{
-
-background:#111;
-
-color:white;
-
-font-family:Segoe UI,sans-serif;
-
+background:#F6F4F1;
+color:#2B2B2B;
+font-family:'Inter',sans-serif;
+line-height:1.5;
 }
 
 a{
 
 text-decoration:none;
 
-color:inherit;
+color:#2E2E2E;
 
 }
 
@@ -28,8 +25,8 @@ display:grid;
 
 grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
 
-gap:25px;
+gap:32px;
 
-padding:40px;
+padding:48px;
 
 }

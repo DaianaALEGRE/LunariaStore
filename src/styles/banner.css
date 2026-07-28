@@ -1,0 +1,56 @@
+.tide-banner {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(
+90deg,
+#D89A63,
+#F0C674,
+#D89A63
+);
+  background-size: 200% 100%;
+  animation: tide-shift 6s ease-in-out infinite;
+  padding: 0.7rem 0;
+}
+
+.tide-banner__track {
+  display: flex;
+  width: max-content;
+  animation: tide-scroll 16s linear infinite;
+}
+
+.tide-banner__item {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0 2.5rem;
+  font-family: 'Poppins', 'Inter', system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #12142B;
+  white-space: nowrap;
+}
+
+@keyframes tide-scroll {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+@keyframes tide-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50%      { background-position: 100% 50%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tide-banner,
+  .tide-banner__track {
+    animation: none;
+  }
+  .tide-banner__track {
+    justify-content: center;
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .tide-banner__item { padding: 0 1.4rem; font-size: 0.9rem; }
+}

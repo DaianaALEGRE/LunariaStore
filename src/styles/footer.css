@@ -1,0 +1,19 @@
+footer {
+  background: var(--lunaria-night);
+  color: var(--lunaria-foam);
+  text-align: center;
+  padding: 2rem 1.5rem;
+  border-top: 1px solid var(--lunaria-dusk);
+  font-family: var(--font-body);
+}
+ 
+footer p {
+  margin: 0.4rem 0;
+  font-size: 0.95rem;
+}
+ 
+/* Un poco de aire en pantallas chicas */
+@media (max-width: 480px) {
+  nav { padding: 1.6rem 1rem 1rem; }
+  footer { padding: 1.6rem 1rem; }
+}
