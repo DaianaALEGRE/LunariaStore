@@ -52,5 +52,13 @@
 }
 
 @media (max-width: 480px) {
-  .tide-banner__item { padding: 0 1.4rem; font-size: 0.9rem; }
+  .tide-banner {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+  }
+
+  .tide-banner__item {
+    padding: 0 1.4rem;
+    font-size: 0.9rem;
+  }
 }
