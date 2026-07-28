@@ -1,21 +1,18 @@
 .producto{
-
-display:grid;
-
-grid-template-columns:1fr 1fr;
-
-gap:50px;
-
-padding:60px;
-
+  display:grid;
+  grid-template-columns: 500px 1fr;
+  gap:50px;
+  padding:60px;
+  align-items:start;
 }
 
+
 .producto img{
-
-width:100%;
-
-border-radius:20px;
-
+  width:100%;
+  max-width:500px;
+  height:500px;
+  object-fit:contain;
+  border-radius:20px;
 }
 
 .producto h1{
@@ -51,5 +48,17 @@ color:white;
 border-radius:12px;
 
 font-weight:bold;
+
+}@media(max-width:768px){
+
+  .producto{
+    grid-template-columns:1fr;
+    padding:20px;
+  }
+
+  .producto img{
+    width:100%;
+    height:auto;
+  }
 
 }
