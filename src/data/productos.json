@@ -6,7 +6,7 @@
     "costoPublicado": 18600,
     "costoTransferencia": 15810,
     "precioVenta": 27900,
-    "stock": 9,
+    "stock": 8,
     "disponible": true,
     "descripcion": "Manta SunMoon Ideal para hacer yoga, usar como manta de tarot, llevar al parque, la playa o decorar cualquier ambiente de tu casa. Medida 1.40mts x 1.40mts Nuestras mantas son 100% poliester, el tejido es tropical. Es un tejido más liviano que la lona de algodon convencional, pero igual de resistente. No destiñe ni decolora con lavados y el sol. Se puede lavar en lavarropas, si se moja seca enseguida y no se le pega la suciedad y la arena El color del estampado puede variar de acuerdo a la resolución y confirguración de la PC o Celular desde la que estes mirando esta web"
   },
@@ -248,7 +248,7 @@
     "costoPublicado": 18600,
     "costoTransferencia": 15810,
     "precioVenta": 27900,
-    "stock": 6,
+    "stock": 5,
     "disponible": true,
     "descripcion": "Manta Luna Cristal Ideal para la playa, usar como manta de tarot, llevar al parque, o decorar cualquier ambiente de tu casa. Medida 1.40mts x 1.40mts Nuestras mantas son 100% poliester, el tejido es tropical. Es un tejido más liviano que la lona de algodon convencional, pero igual de resistente. No destiñe ni decolora con lavados y el sol. Se puede lavar en lavarropas, si se moja seca enseguida y no se le pega la suciedad y la arena IMPORTANTE! El diseño tiene un efecto \"vintage\" simulando un gastado. es parte de su diseño, podes verlo en detalle haciendo zoom en la imagen. El color del estampado puede variar de acuerdo a la resolución y confirguración de la PC o Celular desde la que estes mirando esta web"
   },
@@ -759,6 +759,17 @@
     "descripcion": "PAÑO RUEDA ASTROS La “Rueda Astrológica” representa el ciclo eterno del universo y la conexión entre los signos zodiacales, el sol y las fuerzas invisibles que guían nuestro camino. Cada símbolo orbita alrededor del centro luminoso, evocando equilibrio, transformación y sincronía entre lo cósmico y lo personal. Un paño que invita a la introspección, la lectura intuitiva y la expansión espiritual. Nuestros paños son ideales para lectura de Oráculo, Tarot, Péndulo o Runas. Medida 70cm x70cm (incluye bolsa de guardado para tu paño y cartas) Confeccionado en tela 100% poliester soblimada - Puede lavarse en lavarropas, sugerimos no planchar (en caso de hacerlo colocar una tela de algodón entre el paño y la plancha para evitar dañarlo) Nota: Las medidas pueden variar +/- 2cm - Los colores pueden verse diferentes en pantalla de acuerdo a tu resolución en monitor, o celu IMPORTANTE: El paño tiene una textura de gastado/manchado vintage. No representa falla de tela o estampado, sino un efecto del diseño"
   },
   {
+    "nombre": "Remera Crop Mano Protectora",
+    "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-mano-protectora/",
+    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-mano-protectora2-7d2697008da149328617274485078911-1024-1024.webp",
+    "costoPublicado": 9900,
+    "costoTransferencia": 8415,
+    "precioVenta": 14900,
+    "stock": 5,
+    "disponible": true,
+    "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
+  },
+  {
     "nombre": "Bolsa para Cartas de Tarot/ Oraculo",
     "link": "https://www.rubricomayorista.com.ar/productos/bolsaspanos/",
     "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/noche-magica3-340955dd113a41337817750827110124-1024-1024.webp",
@@ -779,17 +790,6 @@
     "stock": 2,
     "disponible": true,
     "descripcion": "Nuestra Ruana Rectangular es ideal para colocarte sobre cualquier prenda. Podes usarla tambien como una bufanda super calentita. Medida 1.50mts de ancho x 98cm de alto Realizada en lanita gris estampada full color super suave 100% poliester Nota: Los colores pueden variar de acuerdo a la configuración de pantalla en la que veas las imagenes CUIDADOS: No refregar, lavar en lavarropas con lavado para prendas delicadas. Evitar el roce con superficies asperas"
-  },
-  {
-    "nombre": "Remera Crop Mano Protectora",
-    "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-mano-protectora/",
-    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-mano-protectora2-7d2697008da149328617274485078911-1024-1024.webp",
-    "costoPublicado": 9900,
-    "costoTransferencia": 8415,
-    "precioVenta": 14900,
-    "stock": 6,
-    "disponible": true,
-    "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
   },
   {
     "nombre": "Bolso Nazar",
@@ -891,6 +891,17 @@
     "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
   },
   {
+    "nombre": "Remera Crop Ojitos Blancos",
+    "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-ojitos-blancos/",
+    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-ojitos-87b6bc0d34d24927e217274482719336-1024-1024.webp",
+    "costoPublicado": 9900,
+    "costoTransferencia": 8415,
+    "precioVenta": 14900,
+    "stock": 4,
+    "disponible": true,
+    "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
+  },
+  {
     "nombre": "Remera Crop Liberty",
     "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-liberty/",
     "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-liberty3-440c5abdc2306ef4d017274482423437-1024-1024.webp",
@@ -979,17 +990,6 @@
     "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
   },
   {
-    "nombre": "Remera Crop Ojitos Blancos",
-    "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-ojitos-blancos/",
-    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-ojitos-87b6bc0d34d24927e217274482719336-1024-1024.webp",
-    "costoPublicado": 9900,
-    "costoTransferencia": 8415,
-    "precioVenta": 14900,
-    "stock": 5,
-    "disponible": true,
-    "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
-  },
-  {
     "nombre": "Remera Crop Wicca Black",
     "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-wicca-black/",
     "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/remera-wicca-b213fbb58a76bf11ac17274483798232-1024-1024.webp",
@@ -997,6 +997,17 @@
     "costoTransferencia": 8415,
     "precioVenta": 14900,
     "stock": 12,
+    "disponible": true,
+    "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
+  },
+  {
+    "nombre": "Remera Crop Astros Lilac",
+    "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-astros-lilac/",
+    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-astros-lilac1-623036d266fa41601517274484058939-1024-1024.webp",
+    "costoPublicado": 9900,
+    "costoTransferencia": 8415,
+    "precioVenta": 14900,
+    "stock": 4,
     "disponible": true,
     "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
   },
@@ -1032,17 +1043,6 @@
     "stock": 10,
     "disponible": true,
     "descripcion": "Manta Psiconauta Ideal para hacer yoga, usar como manta de tarot, llevar al parque, la playa o decorar cualquier ambiente de tu casa. Medida 1.40mts x 80cm Nuestras mantas son 100% poliester, el tejido es tropical. Es un tejido más liviano que la lona de algodon convencional, pero igual de resistente. No destiñe ni decolora con lavados y el sol. Se puede lavar en lavarropas, si se moja seca enseguida y no se le pega la suciedad y la arena IMPORTANTE! El diseño puede tener un efecto \"vintage\" simulando un gastado. es parte de su diseño, podes verlo en detalle haciendo zoom en la imagen. El color del estampado puede variar de acuerdo a la resolución y confirguración de la PC o Celular desde la que estes mirando esta web"
-  },
-  {
-    "nombre": "Remera Crop Astros Lilac",
-    "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-astros-lilac/",
-    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-astros-lilac1-623036d266fa41601517274484058939-1024-1024.webp",
-    "costoPublicado": 9900,
-    "costoTransferencia": 8415,
-    "precioVenta": 14900,
-    "stock": 5,
-    "disponible": true,
-    "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
   },
   {
     "nombre": "Remera Crop Pink Eyes",
@@ -1106,7 +1106,7 @@
     "costoPublicado": 9900,
     "costoTransferencia": 8415,
     "precioVenta": 14900,
-    "stock": 5,
+    "stock": 4,
     "disponible": true,
     "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
   },
@@ -1122,13 +1122,24 @@
     "descripcion": "Nuestra Ruana Rectangular es ideal para colocarte sobre cualquier prenda. Podes usarla tambien como una bufanda super calentita. Medida 1.50mts de ancho x 98cm de alto Realizada en lanita gris estampada full color super suave 100% poliester Nota: Los colores pueden variar de acuerdo a la configuración de pantalla en la que veas las imagenes CUIDADOS: No refregar, lavar en lavarropas con lavado para prendas delicadas. Evitar el roce con superficies asperas"
   },
   {
+    "nombre": "Campera Piloto Sos Magia",
+    "link": "https://www.rubricomayorista.com.ar/productos/campera-piloto-sos-magia/",
+    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/piloto-sos-magia1-f4fd4c9c60bef788df17122858342107-1024-1024.webp",
+    "costoPublicado": 22000,
+    "costoTransferencia": 18700,
+    "precioVenta": 33000,
+    "stock": 1,
+    "disponible": true,
+    "descripcion": "CAMPERA PILOTO IMPERMEABLE Con capucha forrada, cierre desmontable y bolsillos 100% Poliéster TALLE M Y XL El color de estampado que estas viendo puede variar de acuerdo al dispositivo La diagramación de la estampa puede variar su ubicación de acuerdo a la tizada del corte de la prenda"
+  },
+  {
     "nombre": "Campera Piloto Paisley",
     "link": "https://www.rubricomayorista.com.ar/productos/campera-piloto-paisley/",
     "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/piloto-paisley1-4747e4450e1fc71b0017122859512190-1024-1024.webp",
-    "costoPublicado": 30580,
-    "costoTransferencia": 25993,
-    "precioVenta": 45900,
-    "stock": 1,
+    "costoPublicado": 22000,
+    "costoTransferencia": 18700,
+    "precioVenta": 33000,
+    "stock": 2,
     "disponible": true,
     "descripcion": "CAMPERA PILOTO IMPERMEABLE Con capucha forrada, cierre desmontable y bolsillos 100% Poliéster TALLE M Y XL El color de estampado que estas viendo puede variar de acuerdo al dispositivo La diagramación de la estampa puede variar su ubicación de acuerdo a la tizada del corte de la prenda"
   },
@@ -1243,6 +1254,17 @@
     "descripcion": "100% Poliéster - sublimado Super comodos! Llevalo en combinación con la remera, para estar cómoda en Casa, usar de Pijama, o salir a dar una vuelta! LA COMODIDAD DE SENTIRTE VOS ♥ CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería. NO INCLUYE REMERA!"
   },
   {
+    "nombre": "Remera Crop Ying Yang",
+    "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-ying-yang/",
+    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-yingyang-c0ef381d29ac7f31d517274484587825-1024-1024.webp",
+    "costoPublicado": 9900,
+    "costoTransferencia": 8415,
+    "precioVenta": 14900,
+    "stock": 10,
+    "disponible": true,
+    "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
+  },
+  {
     "nombre": "REMERA COMFY GROOVY",
     "link": "https://www.rubricomayorista.com.ar/productos/remera-comfy-groovy/",
     "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/groovy21-8ead23e3d3e07d089a16852275408143-1024-1024.webp",
@@ -1331,24 +1353,13 @@
     "descripcion": "Nuestra Ruana Rectangular es ideal para colocarte sobre cualquier prenda. Podes usarla tambien como una bufanda super calentita. Medida 1.50mts de ancho x 98cm de alto Realizada en lanita gris estampada full color super suave 100% poliester Nota: Los colores pueden variar de acuerdo a la configuración de pantalla en la que veas las imagenes CUIDADOS: No refregar, lavar en lavarropas con lavado para prendas delicadas. Evitar el roce con superficies asperas"
   },
   {
-    "nombre": "Remera Crop Ying Yang",
-    "link": "https://www.rubricomayorista.com.ar/productos/remera-crop-ying-yang/",
-    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/reme-yingyang-c0ef381d29ac7f31d517274484587825-1024-1024.webp",
-    "costoPublicado": 9900,
-    "costoTransferencia": 8415,
-    "precioVenta": 14900,
-    "stock": 11,
-    "disponible": true,
-    "descripcion": "Remera Crop a la cintura- Full Print - 100% Poliéster - sublimada Escote Redondo CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
-  },
-  {
     "nombre": "Campera Piloto Rubi",
     "link": "https://www.rubricomayorista.com.ar/productos/campera-piloto-rubi/",
     "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/piloto-rubi2-c2515a1712ec7a047417122860001118-1024-1024.webp",
-    "costoPublicado": 30580,
-    "costoTransferencia": 25993,
-    "precioVenta": 45900,
-    "stock": 2,
+    "costoPublicado": 22000,
+    "costoTransferencia": 18700,
+    "precioVenta": 33000,
+    "stock": 6,
     "disponible": true,
     "descripcion": "CAMPERA PILOTO IMPERMEABLE Con capucha forrada, cierre desmontable y bolsillos 100% Poliéster TALLE M Y XL El color de estampado que estas viendo puede variar de acuerdo al dispositivo La diagramación de la estampa puede variar su ubicación de acuerdo a la tizada del corte de la prenda"
   },
@@ -1362,6 +1373,17 @@
     "stock": 6,
     "disponible": true,
     "descripcion": "100% Poliéster - sublimado Super comodos! Llevalo en combinación con la remera, para estar cómoda en Casa, usar de Pijama, o salir a dar una vuelta! LA COMODIDAD DE SENTIRTE VOS ♥ CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería. NO INCLUYE REMERA!"
+  },
+  {
+    "nombre": "SCRUNCHIES PACK X 12 UNIDADES",
+    "link": "https://www.rubricomayorista.com.ar/productos/scrunchies-pack-x-12-unidades/",
+    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/12-scrunchies-0c1480cf65506f515817692688692184-1024-1024.webp",
+    "costoPublicado": 14300,
+    "costoTransferencia": 12155,
+    "precioVenta": 21500,
+    "stock": 8,
+    "disponible": true,
+    "descripcion": "SCRUNCHIES Pack x 12 unidades surtidas. En caso de querer algun modelo en particular podes definirlo en la sección Notas al finalizar la compra 100% poliester, estan confeccionadas con restos de nuestros textiles, para cumplir con la propuesta de RESIDUO CERO aportando nuestro granito de arena a cuidar el medioambiente Tienen elastico super resistente en su interior"
   },
   {
     "nombre": "Paño Serpiente + bolsa",
@@ -1384,17 +1406,6 @@
     "stock": 2,
     "disponible": true,
     "descripcion": "Short- Full Print - 100% Poliéster - sublimado Tiro Alto CUIDADOS: Lavar con jabon neutro/ No planchar/ secar suspendido/ Lavar en lavarropas del reves o a mano, mucho mejor! / Tratar con mucho amor ♥ NOTA: El color puede variar según el dispositivo. Y la diagramacion de la estampa varía según la tizada y corte de la moldería."
-  },
-  {
-    "nombre": "SCRUNCHIES PACK X 12 UNIDADES",
-    "link": "https://www.rubricomayorista.com.ar/productos/scrunchies-pack-x-12-unidades/",
-    "imagen": "//acdn-us.mitiendanube.com/stores/003/130/963/products/12-scrunchies-0c1480cf65506f515817692688692184-1024-1024.webp",
-    "costoPublicado": 14300,
-    "costoTransferencia": 12155,
-    "precioVenta": 21500,
-    "stock": 9,
-    "disponible": true,
-    "descripcion": "SCRUNCHIES Pack x 12 unidades surtidas. En caso de querer algun modelo en particular podes definirlo en la sección Notas al finalizar la compra 100% poliester, estan confeccionadas con restos de nuestros textiles, para cumplir con la propuesta de RESIDUO CERO aportando nuestro granito de arena a cuidar el medioambiente Tienen elastico super resistente en su interior"
   },
   {
     "nombre": "Bolso Liberty",
